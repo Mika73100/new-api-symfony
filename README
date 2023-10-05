@@ -1,3 +1,17 @@
 ID : Michael-73@live.fr
 MDP : 1234Michaelroot
 
+////////////////////////////////////////////////
+
+- mise en place de l'environement de travail : composer require
+
+////////////////////LOGIN///////////////////////
+
+- création du controller login : symfony console make:controller LoginController
+
+- copie colle un controller de login existant.
+
+/////////////////REGISTER///////////////////////
+
+
+

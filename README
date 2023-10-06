@@ -13,5 +13,11 @@ MDP : 1234Michaelroot
 
 /////////////////REGISTER///////////////////////
 
+- création du controller register : symfony console make:controller RegisterController
 
+- copie colle un controller de register existant.
+
+//////////////DASHBOARD ADMIN///////////////////
+
+- J'utiilise easyAdmin : suivre la doc.
 
